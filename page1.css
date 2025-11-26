@@ -169,39 +169,39 @@ th {
 
  
 .i1{
-   width: 40px;
+   width: 80px;
 }
 
 .i2{
-   width: 40px;
+   width: 80px;
 }
 
 .i3{
-   width: 40px;
+   width: 80px;
 }
 
 .j1{
-   max-width: 40px; 
+   max-width: 80px; 
 }
 
 .j2{
-   max-width: 40px; 
+   max-width: 80px; 
 }
 
 .j3{
-   max-width: 40px; 
+   max-width: 80px; 
 }
 
 .k1{
-   max-width: 40px; 
+   max-width: 80px; 
 }
 
 .k2{
-   max-width: 40px; 
+   max-width: 80px; 
 }
 
 .k3{
-   max-width: 40px; 
+   max-width: 80px; 
 }
 
 article h2{
@@ -219,6 +219,7 @@ table {
 }
 
 }
+
 
 
 
